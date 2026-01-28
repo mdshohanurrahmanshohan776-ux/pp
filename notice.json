@@ -7,10 +7,10 @@
   "image_url": "https://i.imgur.com/FxWk2hD.png",
   "footer": "Modded By Shohan",
   
-  "show_cancel_btn": true,
+  "show_cancel_btn": false,
   "btn_cancel": "CANCEL",
   
   "show_update_btn": true,
-  "btn_update": "JOIN NOW",
+  "btn_update": "Update Now",
   "update_url": "https://t.me/mdshohan"
 }
