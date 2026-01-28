@@ -1,0 +1,16 @@
+{
+  "show": true,
+  "daily_limit": 5,
+  "header": "NOTICE",
+  "title": "স্বাগতম!",
+  "message": "আমাদের অ্যাপ ব্যবহার করার জন্য ধন্যবাদ। নিচের লিংকে জয়েন করে আপডেট থাকুন।",
+  "image_url": "https://i.imgur.com/FxWk2hD.png",
+  "footer": "Modded By Shohan",
+  
+  "show_cancel_btn": true,
+  "btn_cancel": "CANCEL",
+  
+  "show_update_btn": true,
+  "btn_update": "JOIN NOW",
+  "update_url": "https://t.me/mdshohan"
+}
