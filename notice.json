@@ -7,7 +7,7 @@
   "image_url": "https://raw.githubusercontent.com/mdshohanurrahmanshohan776-ux/pp/refs/heads/main/1636363068631%20(1).png",
   "footer": "Modded By Shohan",
   
-  "show_cancel_btn": true,
+  "show_cancel_btn": false,
   "btn_cancel": "CANCEL",
   
   "show_update_btn": true,
