@@ -7,7 +7,7 @@
   "image_url": "https://i.imgur.com/FxWk2hD.png",
   "footer": "Modded By Shohan",
   
-  "show_cancel_btn": false,
+  "show_cancel_btn": true,
   "btn_cancel": "CANCEL",
   
   "show_update_btn": true,
