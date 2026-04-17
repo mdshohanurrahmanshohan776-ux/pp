@@ -23,7 +23,7 @@ async def cleanup(image_file: UploadFile = File(...), mask_file: UploadFile = Fi
 
     # OpenCV দিয়ে ম্যাজিক রিমুভ (Inpainting) লজিক
     # 3 হলো ব্লার রেডিয়াস, আপনি চাইলে বাড়াতে/কমাতে পারেন
-    result = cv2.inpaint(img, mask, 3, cv2.INPAINT_TELEA)
+    result = cv2.inpaint(img, mask, 15, cv2.INPAINT_NS)
 
     # রেজাল্ট ছবিটিকে PNG তে কনভার্ট করে অ্যাপে ফেরত পাঠানো
     _, encoded_img = cv2.imencode('.png', result)
